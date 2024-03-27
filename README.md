@@ -1,5 +1,5 @@
 
-### Hello there 👋, my name is Lukas
+### Hi 👋, my name is Lukas
 
 ![giphy](https://github.com/locolukii/locolukii/assets/165012681/8f437120-c239-4ce9-961a-7d193c621252)
 
