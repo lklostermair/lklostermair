@@ -8,4 +8,6 @@
 I really enjoy DIY Robotics, Applications of Machine Learning and 3D-printing.
 Currently I am working on my selfmade robotic hand, which will be published here soon.
 
+[![LinkedIn][linkedin-shield]][(https://www.linkedin.com/in/lukasklostermair/)]
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lklostermair)](https://github.com/anuraghazra/github-readme-stats)
