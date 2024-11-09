@@ -1,10 +1,10 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 ![giphy](https://github.com/locolukii/locolukii/assets/165012681/8f437120-c239-4ce9-961a-7d193c621252) 
 ###
-<h2 align="left"></h2>
+<h2 align="center"></h2>
 
 ###
 
