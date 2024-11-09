@@ -16,8 +16,6 @@
 
 ###
 
-<p align="left">My name is Lukas and I'm a Physics Student, from Germany.</p>
-
 <h2 align="left">About me</h2>
 
 <img align="right" height="150" src="https://media1.giphy.com/media/3o7P4DBaIJG4n8DzNK/giphy.gif?cid=6c09b952c0xlm8gxcn6rgh47ep6uvhmop9fc4o6itkosrpxf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
