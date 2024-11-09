@@ -40,8 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lklostermair/lklostermair/output/snake.svg" alt="Snake animation" />
-
 ###
 <p align="left">My name is Lukas and I'm a Physics Student, from Germany.</p>
 
